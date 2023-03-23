@@ -1,0 +1,40 @@
+.header{
+    overflow: hidden;
+   
+    &-top{
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 62px;
+        @media screen and (min-width: 768px) {
+            padding-top: 4rem;
+            padding-bottom: 4rem;
+           }  
+   
+    }
+    &-bottom{
+        display: flex;
+        flex-direction: column;
+
+
+        @media screen and (min-width: 768px) {
+            flex-direction: row;
+        }    
+        &-title{
+            width: 80%;
+            font-size: 3rem;
+        }
+        &-button{
+            background-color: #F15D51;
+        }
+    }
+    }
+   
+
+.cross-icon{
+    display: block;
+    @media screen and (min-width: 768px) {
+     display: none;
+    }  
+}
