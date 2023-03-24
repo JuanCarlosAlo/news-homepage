@@ -1,12 +1,11 @@
 import Header from "../header/Header";
+import ListContainer from "../listContainer/ListContainer";
 
 const MainContainer = () => {
 	return (
 		<>
 			<Header/>   
-			<div></div>
-			<div></div>
-			<div></div>
+			<ListContainer/>
 		</>
 	);
 };

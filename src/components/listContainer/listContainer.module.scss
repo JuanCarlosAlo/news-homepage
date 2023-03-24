@@ -1,0 +1,36 @@
+.list{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding-top: 4rem;
+    @media screen and (min-width: 768px) {
+        flex-direction: row;
+    }    
+    &-item{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 2rem;
+
+        &-img{
+            height: 130px;
+        }
+        &-number{
+            margin: 0;
+            margin-bottom: 0.5rem;
+            font-weight: 700;
+            font-size: 2rem;
+            color: rgba(197, 198, 206, 1);
+        }
+        &-title{
+            margin: 0;
+            font-weight: 700;
+            font-size: 1.2rem;
+           
+        }
+        &-text{
+            line-height: 23px;
+            color: rgba(94, 96, 122, 1);
+        }
+    }
+}
