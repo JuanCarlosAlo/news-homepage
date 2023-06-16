@@ -1,14 +1,14 @@
 # News W
 
-![Imagen del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/country-roads/main/src/assets/images/readme-1.jpg)
+![Imagen del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/news-homepage/main/public/images/readme-0.jpg)
 
 ## Ejemplo en vivo
 
-- [Live Demo]()
+- [Live Demo](https://news-w.onrender.com/)
 
 ## Descripción
 
-Info of tthe world es una aplicacion con informacion de todos los paises del mundo capaz de filtrar por regiones y por busqueda.
+News W es la front page de una pagina de noticias internacional sobre los avances tecnoligicos mas innovadores.
 
 ## ¿Qué he aprendido en este proyecto?
 
@@ -22,6 +22,7 @@ En este proyecto se usa javascript para crear todas las cartas con todos los pai
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://es.wikipedia.org/wiki/Sass)
+[![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://es.wikipedia.org/wiki/React)
 
 ## Vista previa del proyecto
 
@@ -29,15 +30,15 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Ordenador
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/country-roads/main/src/assets/images/readme-3.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/news-homepage/main/public/images/readme-0.jpg)
 
-## Estados activos
+## Estados activos y movil
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/country-roads/main/src/assets/images/readme-2.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/news-homepage/main/public/images/readme-1.jpg)
 
 ## Parte de Codigo
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/country-roads/main/src/assets/images/readme-4.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/news-homepage/main/public/images/readme-2.jpg)
 
 ## Autor
 
