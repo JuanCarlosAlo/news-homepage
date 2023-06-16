@@ -12,7 +12,7 @@ News W es la front page de una pagina de noticias internacional sobre los avance
 
 ## ¿Qué he aprendido en este proyecto?
 
-En este proyecto se usa javascript para crear todas las cartas con todos los paises, para ello se usa una API (rest-countries) con la cual a base de peticiones imprimimos el array de objetos que nos llega desde el servidor. Ademas se usan filtros que la API proporciona para poder imprimirlos por continentes y paises, ademas de realizar una modal para imprimir informacion adicional de cada pais e incluso redireccionar a un pais colindante.
+En este proyecto aprendi a usar react componentizando elementos para su reutilizacion ademas de usar sass para dar stylos con css-modules. Ademas de como realizar un menu desplegable con el uso de un estado.
 
 ## Tecnologías
 
